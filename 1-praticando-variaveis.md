@@ -53,7 +53,7 @@
         console.log(human[0])
 
     /*
-        8. Crie um novo objeto student e coloque na posição 1 do Array Students
+        8. Crie um novo objeto human e coloque na posição 1 do Array humans
 
         */
         const = newHuman {

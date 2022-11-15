@@ -105,7 +105,7 @@ console.log(humans[1])
         console.log(b)
     }
     console.log(b)
-//Resposta??
+//Resposta?? error
 
 //d)
     const c = 10
@@ -114,4 +114,4 @@ console.log(humans[1])
         const c = 20
         console.log(c)
     }
-//Resposta??
+//Resposta?? error
