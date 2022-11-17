@@ -29,3 +29,22 @@ function myFristFunctionWithReturn(num1, num2){
 
 
 console.log(myFristFunctionWithReturn(20,20))
+
+//Restaurante
+
+function meuPratoDeComida(comida1, comida2, comida3, comida4){
+    return `Meu prato de comida é: ${comida1}, ${comida2}, ${comida3}, ${comida4}`
+}
+
+const prato = meuPratoDeComida('Arroz', 'feijão', 'bife', 'batata frita')
+
+console.log(prato)
+
+//Arrow Function
+const myFirstArrowFunction = (number1, number2) => {
+    let total = number1 + number2
+    return total;
+}
+
+const result = myFirstArrowFunction (20,20)
+console.log(result)
