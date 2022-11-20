@@ -57,5 +57,9 @@ function Sum (num1,num2) {
 
 // console.log(math)
 
-const math = new Sum(20,40)
+const math = new Sum()
 console.log(math.calc(20,20))
+
+//
+const data = new Date().getDate();
+console.log(data)
